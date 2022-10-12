@@ -11,12 +11,10 @@
 ### 👩🏻‍💻 &nbsp;About Me
 I'm currently:
 - 🎓 &nbsp;Studying <a href="https://uwaterloo.ca/future-students/programs/mathematics">Math at the University of Waterloo</a>
-- 🤖 &nbsp;Working on **Android Development**
+- 🤖 &nbsp;Pursuing a Major in **Statistics** and Minor in **Computing**
 - 🌱 &nbsp;Looking into **Natural Language Processing**
-- 📚 &nbsp;Reading After Dark by Haruki Murakami
-- 📫 &nbsp;Reach out to me at [molly.xu@uwaterloo.ca](molly.xu@uwaterloo.ca) for questions and collabs!
-- 📄 &nbsp;Check out my [Resume](https://drive.google.com/file/d/1e38zzTzyCQpCxL9GCBqzrEj3GQTCch7F/)
-<!-- - 🎹 &nbsp;Learn more about me at mollyxu.com -->
+- 📚 &nbsp;Reading The Monk Who Sold His Ferrari by Robin Sharma
+- 📫 &nbsp;Reach out to me at [shailey.mehta@uwaterloo.ca](shailey.mehta@uwaterloo.ca) for questions and collabs!
 
 ### 🛠 &nbsp;Language and Tools
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -27,6 +25,7 @@ I'm currently:
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Scheme](https://img.shields.io/badge/-Scheme-05122A?style=flat&logo=scheme)&nbsp;
 
+<--
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Saas](https://img.shields.io/badge/-Saas-05122A?style=flat&logo=sass)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
@@ -39,6 +38,6 @@ I'm currently:
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; -->
 
 
