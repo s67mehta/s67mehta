@@ -6,7 +6,7 @@
   <img align="left" alt="Shailey's Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=mollyxu.mollyxu)
+![](https://visitor-badge.glitch.me/badge?page_id=s67mehta.s67mehta)
 
 <img align="right" alt="Night Coding" width="25%" src="https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif"/>
 
