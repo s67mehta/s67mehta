@@ -1,4 +1,4 @@
-# Hey there, I'm Shailey! 👋 
+# Hey there, I'm Shailey 👋 
 <a href="https://www.linkedin.com/in/shailey-mehta/">
   <img align="left" alt="Shailey's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
