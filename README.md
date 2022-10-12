@@ -8,6 +8,7 @@
 
 <img align="right" alt="Night Coding" width="25%" src="https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif"/>
 
+
 ### 👩🏻‍💻 &nbsp;About Me
 I'm currently:
 - 🎓 &nbsp;Studying <a href="https://uwaterloo.ca/future-students/programs/mathematics">Math at the University of Waterloo</a>
