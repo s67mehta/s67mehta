@@ -6,9 +6,7 @@
   <img align="left" alt="Shailey's Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=s67mehta.s67mehta)
-
-<img align="right" alt="Night Coding" width="25%" src="https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif"/>
+<img align="right" alt="Night Coding" width="25%" src="https://cdn.dribbble.com/users/4412543/screenshots/11086928/media/c23debeaf4452826b6883c90b771e5a8.gif"/>
 
 ### 👩🏻‍💻 &nbsp;About Me
 I'm currently:
