@@ -1,9 +1,9 @@
-# Hey there, I'm Molly! 👋 
-<a href="https://www.linkedin.com/in/mollyxu4/">
-  <img align="left" alt="Molly's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+# Hey there, I'm Shailey! 👋 
+<a href="https://www.linkedin.com/in/shailey-mehta/">
+  <img align="left" alt="Shailey's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/lollypop.m">
-  <img align="left" alt="Molly's Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" />
+<a href="https://open.spotify.com/user/shaimehta?si=d6f22dbe044f4bda">
+  <img align="left" alt="Shailey's Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mollyxu.mollyxu)
