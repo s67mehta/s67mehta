@@ -14,8 +14,8 @@
 ### 👩🏻‍💻 &nbsp;About Me
 I'm currently:
 - 🎓 &nbsp;Studying <a href="https://uwaterloo.ca/future-students/programs/mathematics">Math at the University of Waterloo</a>
-- 🤖 &nbsp;Pursuing a Major in **Statistics** and Minor in **Computing**
-- 🌱 &nbsp;Looking into **Natural Language Processing**
+- 📊 &nbsp;Pursuing a Major in **Statistics** and Minor in **Computing**
+- 🌱 &nbsp;Looking into **Machine Learning using Regression Algorithms**
 - 📚 &nbsp;Reading The Monk Who Sold His Ferrari by Robin Sharma
 - 📫 &nbsp;Reach out to me at [shailey.mehta@uwaterloo.ca](shailey.mehta@uwaterloo.ca) for questions and collabs!
 
