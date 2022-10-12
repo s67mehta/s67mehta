@@ -6,11 +6,11 @@
   <img align="left" alt="Shailey's Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" />
 </a>
 
-<img align="right" alt="Night Coding" width="25%" src="https://cdn.dribbble.com/users/4412543/screenshots/11086928/media/c23debeaf4452826b6883c90b771e5a8.gif"/>
+<img align="right" alt="Night Coding" width="25%" src="https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif"/>
 
 ### 👩🏻‍💻 &nbsp;About Me
 I'm currently:
-- 🎓 &nbsp;Studying <a href="https://uwaterloo.ca/future-students/programs/computer-science">Computer Science at the University of Waterloo</a>
+- 🎓 &nbsp;Studying <a href="https://uwaterloo.ca/future-students/programs/mathematics">Math at the University of Waterloo</a>
 - 🤖 &nbsp;Working on **Android Development**
 - 🌱 &nbsp;Looking into **Natural Language Processing**
 - 📚 &nbsp;Reading After Dark by Haruki Murakami
@@ -20,7 +20,7 @@ I'm currently:
 
 ### 🛠 &nbsp;Language and Tools
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c++)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -40,23 +40,5 @@ I'm currently:
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
-### 📈 My GitHub Stats:
-<p align="center">
-<a href="https://github.com/mollyxu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mollyxu&theme=prussian&hide_border=true"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mollyxu&count_private=true&hide=stars&show_icons=true&theme=prussian&hide_border=true"/>
-</a>
-</p>
-<p align="center">
-  <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mollyxu&theme=prussian&hide_border=true"/>
-  </a>
-</p>
-
-<br />
-
-Credits: [JayantGoel001](https://github.com/JayantGoel001/), [abhisheknaiidu](https://github.com/abhisheknaiidu)
 
 
